@@ -1,4 +1,4 @@
 twilio:
   account_sid: Enter your S_ID here.
   auth_token: Enter your auth_token here.
-  trial_number: Enter your Sendbox/Trial number here.
+  trial_number: Enter your Sandbox/Trial number here.
